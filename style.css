@@ -1,0 +1,10 @@
+body {
+	background-color: #222831;
+    color: #00ADB5; /* Цвет текста */
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 5px; /* Уголки */
+    border-radius: 10px;
+	box-shadow: 0 0 10px #444;
+	font-family: 'Poppins', sans-serif;
+}
+
